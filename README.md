@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mtsammy40 - Samuel Mutemi
-- 👀 I’m interested in all things Javascript, Java and Blockchain
-- 🌱 I’m currently learning Flutter (and Dart by extension)
+- 👀 I’m interested in all things Javascript, Java and the Reactive spec.
+- 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on Js, Java, Dart or blockchain work
 - 📫 How to reach me email mtsammy40@gmail.com
 
