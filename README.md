@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mtsammy40 - Samuel Mutemi
 - 👀 I’m interested in all things Javascript, Java and the Reactive spec.
-- 🌱 I’m currently learning Rust.
-- 💞️ I’m looking to collaborate on Js, Java, Dart or blockchain work
+- 🌱 I’m currently learning Go.
+- 💞️ I’m looking to collaborate on Js, Java, Go or blockchain work
 - 📫 How to reach me email mtsammy40@gmail.com
 
 <!---
