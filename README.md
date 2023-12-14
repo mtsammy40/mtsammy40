@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mtsammy40 - Samuel Mutemi
-- 👀 I’m interested in all things Javascript, Java, Dart and Typescript.
+- 👀 I’m interested in all things Javascript, Java and Typescript.
 - 🌱 I’m currently learning Go.
-- 💞️ I’m looking to collaborate on Js, Java, Go or Dart.
+- 💞️ I’m looking to collaborate on Js, Java, Go.
 - 📫 How to reach me email mtsammy40@gmail.com
 
 <!---
