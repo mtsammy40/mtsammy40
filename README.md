@@ -38,7 +38,7 @@ Currently, I’m experimenting with **Go** & **Rust**, aiming to build smarter, 
 ### 📫 Let’s Connect
 
 - Email: [mtsammy40@gmail.com](mailto:mtsammy40@gmail.com)  
-- LinkedIn: [linkedin.com/in/samuel-mutemi](https://www.linkedin.com/in/samuel-mutemi)  
+- LinkedIn: [https://www.linkedin.com/in/samuel-mutemi](https://www.linkedin.com/in/samuel-mwangangi-867153106/)
 - GitHub: [@mtsammy40](https://github.com/mtsammy40)  
 
 ---
