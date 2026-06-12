@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Samuel Mutemi
 
-🎯 **Software Engineer | Microservices Specialist | Fintech Innovator**  
+🎯 **Software Engineering Leader | Fintech Innovator**  
 🌍 Based in Nairobi, Kenya | Open to remote and global opportunities
 
 ---
