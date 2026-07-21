@@ -20,7 +20,7 @@
 
 ### 🌍 About Me
 
-With **6+ years of experience** building resilient backend systems, I’ve contributed to impactful financial technology projects across Africa and beyond. I thrive in environments where **scale, reliability, and clear architecture** are non-negotiable.
+With **8+ years of experience** building resilient backend systems, I’ve contributed to impactful financial technology projects across Africa and beyond. I thrive in environments where **scale, reliability, and clear architecture** are non-negotiable.
 
 Currently, I’m experimenting with **Go** & **Rust**, aiming to build smarter, faster systems that help solve real-world problems.
 
